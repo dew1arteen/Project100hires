@@ -29,5 +29,4 @@ This project documents the setup of development tools and basic GitHub workflow.
 **Solution:** Used Personal Access Token instead of password  
 
 ## Repository Link
-https://github.com/dew1arteen/Project100hires
-(Add your GitHub repo link here)
+https://github.com/dew1arteen/Project100hires/blob/main/README.md
