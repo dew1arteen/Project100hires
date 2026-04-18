@@ -42,7 +42,7 @@ This project demonstrates my ability to follow structured instructions, learn ne
 - The importance of clear documentation in projects  
 ---
 ## Reflection
-This task helped me understand the importance of attention to detail and independent problem-solving. I became more confident using GitHub and learned how to approach unfamiliar tools by researching and testing solutions step by step.
+This project helped me improve my ability to follow instructions carefully and solve problems independently. I learned how to use GitHub more confidently and how to document my work in a clear and structured way.
 
 ## Repository Link
 https://github.com/dew1arteen/Project100hires/blob/main/README.md
