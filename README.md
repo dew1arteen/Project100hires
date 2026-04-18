@@ -1,6 +1,6 @@
 # Portfolio Project – 100Hires
 
-This project demonstrates my ability to follow structured instructions, learn new tools independently, and clearly document my process using GitHub and AI-assisted development tools.
+This project demonstrates my ability to follow structured instructions, learn new tools independently, and document my workflow clearly using GitHub and AI-assisted development tools.
 ---
 ## Tools Installed
 - Cursor IDE (AI-powered code editor)
@@ -25,7 +25,7 @@ This project demonstrates my ability to follow structured instructions, learn ne
 - **Solution:** Navigated to the Extensions tab within Cursor and searched there
    
 **Issue 2: Confusion about Git commands (commit vs push)**
-- I was unfamiliar with how changes are saved and uploaded
+- I was confused about the difference between commit and push
 - **Solution:** Watched beginner tutorials and learned:
 - *Commit* = saving changes locally
 - *Push* = uploading changes to GitHub
@@ -42,7 +42,7 @@ This project demonstrates my ability to follow structured instructions, learn ne
 - The importance of clear documentation in projects  
 ---
 ## Reflection
-This task showed me that even simple instructions require attention to detail and persistence. I improved my confidence in using GitHub and learned how to solve problems independently. Documenting each step also helped me organize my thinking more clearly.
----
+This task helped me understand the importance of attention to detail and independent problem-solving. I became more confident using GitHub and learned how to approach unfamiliar tools by researching and testing solutions step by step.
+
 ## Repository Link
 https://github.com/dew1arteen/Project100hires/blob/main/README.md
