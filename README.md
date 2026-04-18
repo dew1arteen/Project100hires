@@ -24,14 +24,12 @@ This project demonstrates my ability to follow structured instructions, learn ne
 - I first searched in the browser instead of inside Cursor
 - **Solution:** Navigated to the Extensions tab within Cursor and searched there
 
-   
 **Issue 2: Confusion about Git commands (commit vs push)**
 - I was confused about the difference between commit and push
 - **Solution:** Watched beginner tutorials and learned:
 - *Commit* = saving changes locally
 - *Push* = uploading changes to GitHub
 
-   
 **Issue 3: Setting up repository correctly**
 - Initially unsure how to connect local folder to GitHub
 - **Solution:** Followed step-by-step tutorials and retried until successful  
