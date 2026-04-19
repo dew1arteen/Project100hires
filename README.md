@@ -15,8 +15,6 @@ This project shows my skills in organization, communication, and using tools lik
 Dewi Artin
 
 
-=======
->>>>>>> ff03bd8ed3d40c39a4c4521f54c3067f5146dfdd
 This project demonstrates my ability to follow structured instructions, learn new tools independently, and document my workflow clearly using GitHub and AI-assisted development tools.
 ---
 ## Tools Installed
