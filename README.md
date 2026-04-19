@@ -1,6 +1,5 @@
 # Portfolio Project – 100Hires
 
-<<<<<<< HEAD
 
 This is my portfolio project.
 
