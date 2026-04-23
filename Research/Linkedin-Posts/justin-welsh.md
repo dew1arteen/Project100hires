@@ -117,5 +117,7 @@ See why 180,000+ people read it weekly.
 Try this Saturday's → https://buff.ly/FvXFtjv
 
 Key Insight:
--Simple habits + consistency = a better life
+-Reinforces identty-based on behavior change (input -> outputs framing)
+-Uses simple, repeatable habits to make message actionable
+-Ends with soft CTA (newsletter) after delivering value
 
