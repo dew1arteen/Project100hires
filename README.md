@@ -64,3 +64,17 @@ It also showed me the importance of clear documentation so others can easily und
 
 ## Repository Link
 https://github.com/dew1arteen/Project100hires/blob/main/README.md
+
+## Project Goal
+
+The goal of this project is to analyze high-performing LinkedIn content and improve my skills in:
+- Content analysis
+- Communication
+- Structured thinking
+- Using GitHub for documentation
+
+## Progress
+
+- [x] Justin Welsh post analysis
+- [x] Dan Koe post analysis
+- [ ] More creators coming soon
