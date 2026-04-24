@@ -21,6 +21,7 @@ Link: https://www.linkedin.com/in/davegerhardt/
 
 Platform: LinkedIn 
  
+
 Focus:  
 
 B2B marketing, brand building  
