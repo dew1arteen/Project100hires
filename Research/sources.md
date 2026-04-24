@@ -1,6 +1,8 @@
 # Sources
 ## 1. Chris Walker  
-Link: https://www.linkedin.com/in/chriswalker171/Platform: LinkedIn  
+Link: https://www.linkedin.com/in/chriswalker171/
+
+Platform: LinkedIn  
 
 Focus:  
 Demand generation, B2B SaaS growth  
@@ -13,7 +15,9 @@ Content collected:  
 
 
 ## 2. Dave Gerhardt  
-Link: https://www.linkedin.com/in/davegerhardt/Platform: LinkedIn 
+Link: https://www.linkedin.com/in/davegerhardt/
+
+Platform: LinkedIn 
  
 Focus:  '
 B2B marketing, brand building  
@@ -27,6 +31,7 @@ Content collected:  
 
 ## 3. Justin Welsh  
 Link: https://www.linkedin.com/in/justinwelsh/
+
 Platform: LinkedIn  
 
 Focus:  
@@ -40,7 +45,8 @@ Content collected:  
 
 
 ## 4. Lara Acosta
-Link: https://www.linkedin.com/in/laraacosta/ 
+Link: https://www.linkedin.com/in/laraacosta/
+
 Platform: LinkedIn  
 
 Focus:  
@@ -54,7 +60,9 @@ Content collected:  
 
 
 ## 5. Katelyn Bourgoin  
-Link: https://www.linkedin.com/in/katelynbourgoin/Platform: LinkedIn  
+Link: https://www.linkedin.com/in/katelynbourgoin/
+
+Platform: LinkedIn  
 
 Focus:  
 Customer psychology, marketing  
@@ -67,7 +75,8 @@ Content collected:  
 
 
 ## 6. Amanda Natividad  
-Link: https://www.linkedin.com/in/amandanat/  
+Link: https://www.linkedin.com/in/amandanat/
+
 Platform: LinkedIn  
 
 Focus:  
@@ -82,6 +91,7 @@ Content collected:  
 
 ## 7. Alex Hormozi  
 Link: https://www.linkedin.com/in/alexhormozi/
+
 Platform: LinkedIn  
 
 Focus:  
@@ -95,7 +105,9 @@ Content collected:  
 
 
 ## 8. Ross Simmonds  
-Link: https://www.linkedin.com/in/rosssimmonds/Platform: LinkedIn  
+Link: https://www.linkedin.com/in/rosssimmonds/
+
+Platform: LinkedIn  
 
 Focus:  
 Content distribution, SEO, growth  
@@ -108,7 +120,8 @@ Content collected:  
 
 
 ## 9. Justin Rowe  
-Link: https://www.linkedin.com/in/justinrowe/ 
+Link: https://www.linkedin.com/in/justinrowe/
+
 Platform: LinkedIn  
 
 Focus:  
@@ -122,7 +135,8 @@ Content collected:  
 
 
 ## 10. Dan Koe  
-Link: https://www.linkedin.com/in/thedankoe/  
+Link: https://www.linkedin.com/in/thedankoe/
+
 Platform: LinkedIn  
 
 Focus:  
