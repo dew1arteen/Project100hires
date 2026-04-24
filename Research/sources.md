@@ -5,9 +5,11 @@ Link: https://www.linkedin.com/in/chriswalker171/
 Platform: LinkedIn  
 
 Focus:  
+
 Demand generation, B2B SaaS growth  
 
-Why relevant:  
+**Why relevant:**  
+
 Chris Walker focuses on demand generation for B2B SaaS and shares practical insights based on real execution, making his content highly actionable.
 
 Content collected:  
@@ -19,10 +21,12 @@ Link: https://www.linkedin.com/in/davegerhardt/
 
 Platform: LinkedIn 
  
-Focus:  '
+Focus:  
+
 B2B marketing, brand building  
 
-Why relevant:  
+**Why relevant:**  
+
 Dave Gerhardt shares practical insights on building modern B2B brands and using content to drive audience engagement and pipeline.
 
 Content collected:  
@@ -35,9 +39,11 @@ Link: https://www.linkedin.com/in/justinwelsh/
 Platform: LinkedIn  
 
 Focus:  
+
 LinkedIn content systems, solopreneur growth  
 
-Why relevant:  
+**Why relevant:**  
+
 Justin Welsh shares proven systems for consistent LinkedIn content creation and audience growth, focusing on repeatable and scalable processes.
 
 Content collected:  
@@ -50,9 +56,11 @@ Link: https://www.linkedin.com/in/laraacosta/
 Platform: LinkedIn  
 
 Focus:  
+
 LinkedIn personal branding, content strategy  
 
-Why relevant:  
+**Why relevant:** 
+
 Lara Acosta specializes in LinkedIn content and personal branding, sharing clear frameworks for writing engaging posts and building an audience.
 
 Content collected:  
@@ -65,9 +73,11 @@ Link: https://www.linkedin.com/in/katelynbourgoin/
 Platform: LinkedIn  
 
 Focus:  
+
 Customer psychology, marketing  
 
-Why relevant:  
+**Why relevant:**  
+
 Katelyn Bourgoin shares insights on buyer psychology and decision-making, which help create more effective and persuasive B2B SaaS content.
 
 Content collected:  
@@ -80,9 +90,11 @@ Link: https://www.linkedin.com/in/amandanat/
 Platform: LinkedIn  
 
 Focus:  
+
 Content marketing, zero-click content  
 
-Why relevant:  
+**Why relevant:**  
+
 Amanda Natividad focuses on zero-click content strategies and shares actionable ideas for creating high-performing LinkedIn posts.
 
 Content collected:  
@@ -95,9 +107,11 @@ Link: https://www.linkedin.com/in/alexhormozi/
 Platform: LinkedIn  
 
 Focus:  
+
 Business growth, marketing, offers  
 
-Why relevant:  
+**Why relevant:**  
+
 Alex Hormozi shares high-impact insights on marketing, messaging, and value creation that can be applied to B2B SaaS content strategy.
 
 Content collected:  
@@ -110,9 +124,11 @@ Link: https://www.linkedin.com/in/rosssimmonds/
 Platform: LinkedIn  
 
 Focus:  
+
 Content distribution, SEO, growth  
 
-Why relevant:  
+**Why relevant:**  
+
 Ross Simmonds specializes in content distribution and shares strategies on how to maximize reach and visibility of content.
 
 Content collected:  
@@ -125,9 +141,11 @@ Link: https://www.linkedin.com/in/justinrowe/
 Platform: LinkedIn  
 
 Focus:  
+
 B2B marketing, demand generation  
 
-Why relevant:  
+**Why relevant:**  
+
 Justin Rowe shares practical insights on B2B marketing and demand generation based on hands-on experience.
 
 Content collected:  
@@ -140,9 +158,11 @@ Link: https://www.linkedin.com/in/thedankoe/
 Platform: LinkedIn  
 
 Focus:  
+
 Content creation, personal branding  
 
-Why relevant:  
+**Why relevant:**  
+
 Dan Koe shares insights on content creation and personal branding, useful for understanding audience building and engagement strategies.
 
 Content collected:  
