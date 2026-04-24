@@ -11,6 +11,7 @@ Chris Walker focuses on demand generation for B2B SaaS and shares practical insi
 Content collected:  
 - 3 LinkedIn posts  
 
+
 ## 2. Dave Gerhardt  
 Link: https://www.linkedin.com/in/davegerhardt/Platform: LinkedIn 
  
@@ -22,6 +23,7 @@ Dave Gerhardt shares practical insights on building modern B2B brands and using 
 
 Content collected:  
 - 3 LinkedIn posts  
+
 
 ## 3. Justin Welsh  
 Link: https://www.linkedin.com/in/justinwelsh/
@@ -36,6 +38,7 @@ Justin Welsh shares proven systems for consistent LinkedIn content creation and 
 Content collected:  
 - 3 LinkedIn posts  
 
+
 ## 4. Lara Acosta
 Link: https://www.linkedin.com/in/laraacosta/ 
 Platform: LinkedIn  
@@ -49,6 +52,7 @@ Lara Acosta specializes in LinkedIn content and personal branding, sharing clear
 Content collected:  
 - 3 LinkedIn posts  
 
+
 ## 5. Katelyn Bourgoin  
 Link: https://www.linkedin.com/in/katelynbourgoin/Platform: LinkedIn  
 
@@ -60,6 +64,7 @@ Katelyn Bourgoin shares insights on buyer psychology and decision-making, which 
 
 Content collected:  
 - 3 LinkedIn posts  
+
 
 ## 6. Amanda Natividad  
 Link: https://www.linkedin.com/in/amandanat/  
@@ -74,6 +79,7 @@ Amanda Natividad focuses on zero-click content strategies and shares actionable 
 Content collected:  
 - 3 LinkedIn posts  
 
+
 ## 7. Alex Hormozi  
 Link: https://www.linkedin.com/in/alexhormozi/
 Platform: LinkedIn  
@@ -87,6 +93,7 @@ Alex Hormozi shares high-impact insights on marketing, messaging, and value crea
 Content collected:  
 - 3 LinkedIn posts  
 
+
 ## 8. Ross Simmonds  
 Link: https://www.linkedin.com/in/rosssimmonds/Platform: LinkedIn  
 
@@ -98,6 +105,7 @@ Ross Simmonds specializes in content distribution and shares strategies on how t
 
 Content collected:  
 - 3 LinkedIn posts  
+
 
 ## 9. Justin Rowe  
 Link: https://www.linkedin.com/in/justinrowe/ 
@@ -111,6 +119,7 @@ Justin Rowe shares practical insights on B2B marketing and demand generation bas
 
 Content collected:  
 - 3 LinkedIn posts  
+
 
 ## 10. Dan Koe  
 Link: https://www.linkedin.com/in/thedankoe/  
